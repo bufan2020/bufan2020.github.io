@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'bufan's blog'
-description: '微风需要竹林，溪流需要蜻蜓'
-keyword: 'Lidar, PointCloud，Deep Learning'
+description: '微风需要竹林，溪流需要蜻蜓。'
+keyword: 'Lidar, PointCloud'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
