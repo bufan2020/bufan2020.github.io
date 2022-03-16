@@ -2,7 +2,7 @@
 layout: post
 title: 'Hello Jekyll'
 date: 2022-02-18
-author: Jekyll
+author: bufan
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll
 ---
